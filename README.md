@@ -1,13 +1,27 @@
--Introduction: Developing is always a challenge; however, we as developers are constantly sharing our findings and solutions to assist our colleagues and mitigate challenges.
+# Sharing Code Solutions for Developers
 
--Justification: To contribute to less rigid developments.
+## Introduction
 
--General Objective: To contribute to developers by sharing code.
+Developing is always a challenge; however, we, as developers, are constantly sharing our findings and solutions to assist our colleagues and mitigate challenges.
 
--Specific Objective: To share solutions to problems proposed on CoderByte.
+## Justification
 
--Methodology: Bringing the codes developed on CoderByte to VSCode and then committing to Git.
+To contribute to more flexible and innovative developments.
 
--Target Audience: Python and JavaScript developers.
+## General Objective
 
-visit https://coderbyte.com/profile/PatriciaMaltez
+To support developers by sharing valuable code solutions.
+
+## Specific Objective
+
+To share solutions to problems proposed on CoderByte.
+
+## Methodology
+
+Bringing the codes developed on CoderByte to VSCode and then committing them to Git.
+
+## Target Audience
+
+Python and JavaScript developers.
+
+For more information, visit my profile on [CoderByte](https://coderbyte.com/profile/PatriciaMaltez).
